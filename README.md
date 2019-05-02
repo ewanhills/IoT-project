@@ -16,7 +16,7 @@ As of now the device is able to record vibrations using the phones onboard accel
 I have also been able to modify an application that connects the users phone to an external program known as Evothings where the raw sensor data can be seen as well as the users location. However sending a notification to the user letting them know of a disturbance has been hit and miss.
 
 
-#As of now I have found 2 methods in acheiving the goals I have set out above one is to use IBMS cloud system to contextualise, visualise and extract data from a smartphone. The other is to use EvoThings in conjunction with an application in the format of hmlt that is provided in this GitHub repo.
+As of now I have found 2 methods in acheiving the goals that I have set out above. One is to use IBMS cloud system to contextualise, visualise and extract data from a smartphone. The other is to use EvoThings in conjunction with an application in the format of html document that is provided in this GitHub repo.
 
 
 
