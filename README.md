@@ -1,10 +1,12 @@
 ##security Monitor Readme.
 
 
-###Some basic information 
+##Some basic information 
 
 
-The concept that I have decided to base my project on is Homeowner security.
+###The concept that I have decided to base my project on is Homeowner security. I wanted to prove a proof on concept that anyone can take their smartphone and turn it into a fully capable iot device that will monitor their house whilst their at work or asleep.
+
+
 
 I wanted to prove that any device that met the basic specifications could in theory be used as a homeowner security device. 
 I decided to use a smartphone in this instance as it has all the available sensors required to carry out the functions that would be needed to acheive the end goal.
