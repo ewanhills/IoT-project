@@ -51,7 +51,7 @@ Observe that now you can add and manage iot devices.
 #Setting up EvoThings Application
 
 #What is EvoThings?
-Evothings Studio is a set of development tools, designed for development of mobile apps using web technologies. Evothings Studio is specifically designed for development of apps for the Internet of Things.
+Evothings Studio is a set of development tools, designed for development of mobile apps using web technologies. Evothings Studio is specifically designed for development of apps for the Internet of Things. The application has been adapted from a EvoThings Developer who has made an application for a similar purpose. 
 
 
 (1) Firstly install evo things onto your computer.
