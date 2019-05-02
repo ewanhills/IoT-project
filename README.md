@@ -1,17 +1,30 @@
-# IoT-project description
+#Setting up EvoThings Application
 
-The concept that I have decided to base my project on is Homeowner security.
+#What is EvoThings?
+Evothings Studio is a set of development tools, designed for development of mobile apps using web technologies. Evothings Studio is specifically designed for development of apps for the Internet of Things.
 
-I wanted to use a rarpberry pi along with a vibration sensor to alert the homeowner when or if their property is 
-being tampered with. The device will be mounted into or onto a door, or primarly a gate. When a door or gate is 
-being tampered with an alert will be sent to the homeowner warning them that someone may be around their property.
 
-I also plan to efficantly program the raspberry pi so that it remains acitve at times when the homeowners are away,
-as well as remainig inactive during periods of which homeowners are home. This will help reduce the amount of 
-unnessary alerts that will be sent to the owner.
+(1) Firstly install evo things onto your computer.
+https://evothings.com/
 
-A button will be placed on the raspberyy pi that will be arm it at all times. This will be usefull when the homeowners
-are away for extended periods of time ie when the may be away at a business metting or a holiday. Some aspects have yet been 
-undecided such as external power supply, external factors and durability. I would like to prove that the concept works on a rasbperry pi
-then afterwards use a more power efficant device such as arduino which could work for far longer periods of time.
+(2) Next download the evoThings application onto you android or apple device.
 
+(3) After both have installed, go to evo things on your computer, agree to the terms and conditions and proceed to the next step.
+
+(4) In order to connect your phone and computer together you will need to generate a key like so that you will enter into the smartphone,
+the devices will then attempt to connect to one another.
+
+
+![](C:\Users\Ewan Hills\Pictures-keycode.png)
+
+
+(5) The devices should have connected successfully.
+
+(6) Next drag and drop the html file from this repo into your EvoThings program.
+
+(7) REMEMBER it is important that if you wish to receive sms notifications you must change the number in the html file to 
+a number of your preference.
+
+(8) The html allpication will now appear on your computer where you can now run the application from.
+
+(9) The application will detect mocement and should alert you of movement via sms on your mobile phone.
