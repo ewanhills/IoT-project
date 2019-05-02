@@ -18,28 +18,35 @@ I have also been able to modify an application that connects the users phone to 
 
 As of now I have found 2 methods in acheiving the goals that I have set out above. One is to use IBMS cloud system to contextualise, visualise and extract data from a smartphone. The other is to use EvoThings in conjunction with an application in the format of html document that is provided in this GitHub repo.
 
+For both of these methods all that you will require is a modern smartphone, internet connectivity and a computer.
 
 
 
 
 
+#Setting up IMB cloud.
+
+(1) #What is the IMB Watson platform.
+The IBM Watson IoT Platform is a fully managed, cloud-hosted service that makes it simple to derive value from Internet of Things (IoT) devices. When combined with the IBM Bluemix platform, Watson IoT provides simple, but powerful application access to IoT devices and data. You can rapidly compose analytics applications, visualization dashboards, and mobile IoT apps. Create IoT applications that feed insights to your backend enterprise applications.
 
 
+(2)Firstly you will need to do the following.
 
+(3)Open your favorite browser and go to Bluemix. If you are an existing Bluemix user, log in as usual. Once you signed up to Bluemix, click this link to create the Watson IoT Platform service in Bluemix.
+Type a name for your service and click Create button as shown below,
+Observe that now you can add and manage iot devices.
 
+(4) Now create a device type, each device that is connected will be associated with a device type. An example of a device type could be andoird device, pc etc.
 
+(5) Continue with the setup inputing your prefered fields, REMEMBER to write down these fields or screenshot them as you will need them later for mqtt connecivity later on.
 
+(6) Next you will have to generate a code that is unique to the service that you are creating REMEMBER to save this code. 
 
+(7) Now you can download any mqtt application onto your phone, input the details that you have screenshotted earlier on into the empty fields. The device as well as the IBM system should now be in sync with one another.
 
+(7) You shoud see a flow of data from the phone to the computer.
 
-
-
-
-
-
-
-
-
+(8) In this recipe we demonstrated how to setup an IBM Watson IoT Platform Organization, create a Device Type and register a Device using theIBM Watson IoT Platform dashboard. Also, you can use the IBM Watson IoT Platform ReST API, or the Client Libraries to create the Device Type and register Devices in IBM Watson IoT Platform.
 
 #Setting up EvoThings Application
 
