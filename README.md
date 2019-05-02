@@ -1,5 +1,9 @@
 ##security Monitor Readme.
+
+
 ###Some basic information 
+
+
 The concept that I have decided to base my project on is Homeowner security.
 
 I wanted to prove that any device that met the basic specifications could in theory be used as a homeowner security device. 
