@@ -1,3 +1,42 @@
+##security Monitor Readme.
+###Some basic information 
+The concept that I have decided to base my project on is Homeowner security.
+
+I wanted to prove that any device that met the basic specifications could in theory be used as a homeowner security device. 
+I decided to use a smartphone in this instance as it has all the available sensors required to carry out the functions that would be needed to acheive the end goal.
+
+The device mounts to a door where it waits for a stimulus, the device in theory could range from anything including an Arduino board, raspberry pi, apple iPhone or android smartphone. The device for proof of concept will mount to a door where it waits. Once a vibration is present the user should be able to visualise the data, save the data and be alerted of such an occurrence. 
+
+###What works?
+As of now the device is able to record vibrations using the phones onboard accelerometer. It can also send these readings to a cloud based server where these readings can be viewed and later saved. 
+I have also been able to modify an application that connects the users phone to an external program known as Evothings where the raw sensor data can be seen as well as the users location. However sending a notification to the user letting them know of a disturbance has been hit and miss.
+
+
+#As of now I have found 2 methods in acheiving the goals I have set out above one is to use IBMS cloud system to contextualise, visualise and extract data from a smartphone. The other is to use EvoThings in conjunction with an application in the format of hmlt that is provided in this GitHub repo.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #Setting up EvoThings Application
 
 #What is EvoThings?
