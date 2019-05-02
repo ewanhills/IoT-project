@@ -1,25 +1,30 @@
+##Setting up EvoThings Application
+
+#What is EvoThings?
+Evothings Studio is a set of development tools, designed for development of mobile apps using web technologies. Evothings Studio is specifically designed for development of apps for the Internet of Things.
+
+
 (1) Firstly install evo things onto your computer.
+https://evothings.com/
 
 (2) Next download the evoThings application onto you android or apple device.
 
-(2) After both have installed, go to evo things on your computer, agree to the terms and conditions and proceed to the next step.
+(3) After both have installed, go to evo things on your computer, agree to the terms and conditions and proceed to the next step.
 
-(2) In order to connect your phone and computer toghter you will need to generate a key like so that you will enter into the smartphone,
+(4) In order to connect your phone and computer together you will need to generate a key like so that you will enter into the smartphone,
 the devices will then attempt to connect to one another.
 
 
-![2016-06-10](https://user-images.githubusercontent.com/23585924/57110144-619bc600-6d2f-11e9-8ab7-f67cdf2ace24.png)
+![](C:\Users\Ewan Hills\Pictures-keycode.png)
 
-(2)
 
-(2)
+(5) The devices should have connected successfully.
 
-(2)
+(6) Next drag and drop the html file from this repo into your EvoThings program.
 
-(2)
+(7) REMEMBER it is important that if you wish to receive sms notifications you must change the number in the html file to 
+a number of your preference.
 
-(2)
+(8) The html allpication will now appear on your computer where you can now run the application from.
 
-(2)
-
-(2)
+(9) The application will detect mocement and should alert you of movement via sms on your mobile phone.
